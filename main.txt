@@ -2,4 +2,8 @@ this is main pgm
 i am going to write sum and add file
 go start
 sum and mul is created and combined
+
 san is edited
+
+cibin is eddited
+
